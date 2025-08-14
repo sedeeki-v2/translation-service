@@ -74,8 +74,6 @@ This will:
 - `POST /api/auth/login` → Authenticate and receive JWT  
 - `GET /api/translations` → Retrieve all translations (projection view)  
 - `POST /api/translations/seed` → Seed 100,000 demo translations  
-- `GET /api/translations/export` → Export all translations in JSON format for frontend apps  
-- `GET /api/translations/search?tags=ui,error` → Search translations by tags  
 
 ---
 
